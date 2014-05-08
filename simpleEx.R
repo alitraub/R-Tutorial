@@ -1,0 +1,6 @@
+x <- rnorm(10)
+mux = mean(x)
+cat("The mean of x is ",mean(x),"\n")
+summary(x)
+cat("The summary of x is \n", summary(x),"\n")
+print(summary(x))
